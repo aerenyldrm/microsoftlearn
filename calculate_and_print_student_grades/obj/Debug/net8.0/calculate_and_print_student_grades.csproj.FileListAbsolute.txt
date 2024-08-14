@@ -1,0 +1,14 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\bin\Debug\net8.0\calculate_and_print_student_grades.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\bin\Debug\net8.0\calculate_and_print_student_grades.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\bin\Debug\net8.0\calculate_and_print_student_grades.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\bin\Debug\net8.0\calculate_and_print_student_grades.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\bin\Debug\net8.0\calculate_and_print_student_grades.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\refint\calculate_and_print_student_grades.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\ref\calculate_and_print_student_grades.dll

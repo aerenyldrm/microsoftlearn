@@ -1,0 +1,14 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\bin\Debug\net8.0\calculate_final_gpa.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\bin\Debug\net8.0\calculate_final_gpa.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\bin\Debug\net8.0\calculate_final_gpa.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\bin\Debug\net8.0\calculate_final_gpa.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\bin\Debug\net8.0\calculate_final_gpa.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\refint\calculate_final_gpa.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\ref\calculate_final_gpa.dll
