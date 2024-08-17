@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs.csproj",
+        "projectName": "develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs",
+        "projectPath": "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs.csproj",
         "packagesPath": "C:\\Users\\aeren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\aeren\\Desktop\\Programming\\microsoftlearn\\develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
