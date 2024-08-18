@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\bin\Debug\net8.0\challenge_project_dfaieestpadic.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\bin\Debug\net8.0\challenge_project_dfaieestpadic.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\bin\Debug\net8.0\challenge_project_dfaieestpadic.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\bin\Debug\net8.0\challenge_project_dfaieestpadic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\bin\Debug\net8.0\challenge_project_dfaieestpadic.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\challenge_project_dfaieestpadic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\challenge_project_dfaieestpadic.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\challenge_project_dfaieestpadic.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\challenge_project_dfaieestpadic.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\challenge_project_dfaieestpadic.sourcelink.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\challenge_project_dfaieestpadic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\refint\challenge_project_dfaieestpadic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\challenge_project_dfaieestpadic.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\challenge_project_dfaieestpadic.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dfaieestpadic\obj\Debug\net8.0\ref\challenge_project_dfaieestpadic.dll
