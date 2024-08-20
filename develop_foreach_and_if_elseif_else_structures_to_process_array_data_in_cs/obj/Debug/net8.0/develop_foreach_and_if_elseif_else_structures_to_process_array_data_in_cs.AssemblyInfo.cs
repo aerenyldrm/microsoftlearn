@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4586b68592c40ca0225c84a3dae2b551c2a26569")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
