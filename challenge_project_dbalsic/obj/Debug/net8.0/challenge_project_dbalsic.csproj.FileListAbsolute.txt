@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\challenge_project_dbalsic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\challenge_project_dbalsic.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\challenge_project_dbalsic.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\challenge_project_dbalsic.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\challenge_project_dbalsic.sourcelink.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\bin\Debug\net8.0\challenge_project_dbalsic.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\bin\Debug\net8.0\challenge_project_dbalsic.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\bin\Debug\net8.0\challenge_project_dbalsic.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\bin\Debug\net8.0\challenge_project_dbalsic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\bin\Debug\net8.0\challenge_project_dbalsic.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\challenge_project_dbalsic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\refint\challenge_project_dbalsic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\challenge_project_dbalsic.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\challenge_project_dbalsic.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_dbalsic\obj\Debug\net8.0\ref\challenge_project_dbalsic.dll
