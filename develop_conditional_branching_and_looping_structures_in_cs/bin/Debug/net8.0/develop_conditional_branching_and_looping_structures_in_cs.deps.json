@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "develop_conditional_branching_and_looping_structures_in_cs/1.0.0": {
+        "runtime": {
+          "develop_conditional_branching_and_looping_structures_in_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "develop_conditional_branching_and_looping_structures_in_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
