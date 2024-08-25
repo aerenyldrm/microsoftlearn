@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\bin\Debug\net8.0\code_challenge_20.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\bin\Debug\net8.0\code_challenge_20.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\bin\Debug\net8.0\code_challenge_20.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\bin\Debug\net8.0\code_challenge_20.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\bin\Debug\net8.0\code_challenge_20.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\code_challenge_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\code_challenge_20.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\code_challenge_20.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\code_challenge_20.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\code_challenge_20.sourcelink.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\code_challenge_20.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\refint\code_challenge_20.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\code_challenge_20.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\code_challenge_20.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\code_challenge_20\obj\Debug\net8.0\ref\code_challenge_20.dll
