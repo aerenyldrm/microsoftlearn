@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\bin\Debug\net8.0\challenge_project_wwvdic.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\bin\Debug\net8.0\challenge_project_wwvdic.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\bin\Debug\net8.0\challenge_project_wwvdic.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\bin\Debug\net8.0\challenge_project_wwvdic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\bin\Debug\net8.0\challenge_project_wwvdic.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\challenge_project_wwvdic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\challenge_project_wwvdic.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\challenge_project_wwvdic.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\challenge_project_wwvdic.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\challenge_project_wwvdic.sourcelink.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\challenge_project_wwvdic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\refint\challenge_project_wwvdic.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\challenge_project_wwvdic.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\challenge_project_wwvdic.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_wwvdic\obj\Debug\net8.0\ref\challenge_project_wwvdic.dll
