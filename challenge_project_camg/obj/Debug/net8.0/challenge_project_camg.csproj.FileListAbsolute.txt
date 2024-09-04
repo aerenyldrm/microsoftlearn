@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\bin\Debug\net8.0\challenge_project_camg.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\bin\Debug\net8.0\challenge_project_camg.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\bin\Debug\net8.0\challenge_project_camg.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\bin\Debug\net8.0\challenge_project_camg.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\bin\Debug\net8.0\challenge_project_camg.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\challenge_project_camg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\challenge_project_camg.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\challenge_project_camg.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\challenge_project_camg.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\challenge_project_camg.sourcelink.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\challenge_project_camg.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\refint\challenge_project_camg.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\challenge_project_camg.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\challenge_project_camg.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_camg\obj\Debug\net8.0\ref\challenge_project_camg.dll

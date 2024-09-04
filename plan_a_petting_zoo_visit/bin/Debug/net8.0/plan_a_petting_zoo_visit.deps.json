@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "plan_a_petting_zoo_visit/1.0.0": {
+        "runtime": {
+          "plan_a_petting_zoo_visit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "plan_a_petting_zoo_visit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

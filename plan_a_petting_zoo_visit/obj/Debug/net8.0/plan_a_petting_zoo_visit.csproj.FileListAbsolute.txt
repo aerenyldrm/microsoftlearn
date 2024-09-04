@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\bin\Debug\net8.0\plan_a_petting_zoo_visit.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\bin\Debug\net8.0\plan_a_petting_zoo_visit.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\bin\Debug\net8.0\plan_a_petting_zoo_visit.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\bin\Debug\net8.0\plan_a_petting_zoo_visit.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\bin\Debug\net8.0\plan_a_petting_zoo_visit.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\plan_a_petting_zoo_visit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\plan_a_petting_zoo_visit.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\plan_a_petting_zoo_visit.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\plan_a_petting_zoo_visit.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\plan_a_petting_zoo_visit.sourcelink.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\plan_a_petting_zoo_visit.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\refint\plan_a_petting_zoo_visit.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\plan_a_petting_zoo_visit.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\plan_a_petting_zoo_visit.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\plan_a_petting_zoo_visit\obj\Debug\net8.0\ref\plan_a_petting_zoo_visit.dll
