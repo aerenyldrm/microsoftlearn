@@ -12,3 +12,4 @@ C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_gr
 C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.pdb
 C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.genruntimeconfig.cache
 C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\ref\calculate_and_print_student_grades.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_and_print_student_grades\obj\Debug\net8.0\calculate_and_print_student_grades.sourcelink.json

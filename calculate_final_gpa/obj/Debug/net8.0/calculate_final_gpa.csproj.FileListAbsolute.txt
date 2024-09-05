@@ -12,3 +12,4 @@ C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\
 C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.pdb
 C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.genruntimeconfig.cache
 C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\ref\calculate_final_gpa.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\calculate_final_gpa\obj\Debug\net8.0\calculate_final_gpa.sourcelink.json
