@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs", "develop_foreach_and_if_elseif_else_structures_to_process_array_data_in_cs.csproj", "{7A1A923B-B887-40C9-B804-2E699BFBC85A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1A923B-B887-40C9-B804-2E699BFBC85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1A923B-B887-40C9-B804-2E699BFBC85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1A923B-B887-40C9-B804-2E699BFBC85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1A923B-B887-40C9-B804-2E699BFBC85A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFE9174F-0C83-4BC8-89DC-2AF24E7687F4}
+	EndGlobalSection
+EndGlobal
