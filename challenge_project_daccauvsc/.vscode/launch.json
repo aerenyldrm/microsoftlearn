@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/bin/Debug/net8.0/debug_and_handle_exceptions_in_a_cs_cauvsc.dll",
+            "program": "${workspaceFolder}/bin/Debug/net8.0/challenge_project_daccauvsc.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console

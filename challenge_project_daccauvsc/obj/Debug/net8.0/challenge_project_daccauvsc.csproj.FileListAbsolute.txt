@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\bin\Debug\net8.0\challenge_project_daccauvsc.exe
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\bin\Debug\net8.0\challenge_project_daccauvsc.deps.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\bin\Debug\net8.0\challenge_project_daccauvsc.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\bin\Debug\net8.0\challenge_project_daccauvsc.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\bin\Debug\net8.0\challenge_project_daccauvsc.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\challenge_project_daccauvsc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\challenge_project_daccauvsc.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\challenge_project_daccauvsc.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\challenge_project_daccauvsc.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\challenge_project_daccauvsc.sourcelink.json
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\challenge_project_daccauvsc.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\refint\challenge_project_daccauvsc.dll
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\challenge_project_daccauvsc.pdb
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\challenge_project_daccauvsc.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\microsoftlearn\challenge_project_daccauvsc\obj\Debug\net8.0\ref\challenge_project_daccauvsc.dll
